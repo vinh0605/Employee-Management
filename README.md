@@ -21,8 +21,9 @@ Authentication:
 Spring Security
 
 Setup Instructions
+
 1.Clone the Repository:
-git clone https://github.com/yourusername/Employee-Management.git
+git clone https://github.com/yourusername/Employee-Management.git](https://github.com/vinh0605/Employee-Management.git
 cd Employee-Management
 
 2.Configure the Database:
