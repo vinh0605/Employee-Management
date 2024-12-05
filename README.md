@@ -24,15 +24,18 @@ Setup Instructions
 1.Clone the Repository:
 git clone https://github.com/yourusername/Employee-Management.git
 cd Employee-Management
+
 2.Configure the Database:
 Open application.properties in the project directory.
 Update the database credentials:
 spring.datasource.url=jdbc:mysql://localhost:3306/employee-directory
 spring.datasource.username=your_username
 spring.datasource.password=your_password
+
 3.Run the Application:
 Build and run the Spring Boot application:
 ./mvnw spring-boot:run
+
 4.Access the Website:
 Open your browser and navigate to:
 http://localhost:8080
